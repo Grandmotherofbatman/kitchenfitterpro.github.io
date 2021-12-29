@@ -1,0 +1,14 @@
+User-agent: Googlebot
+Disallow: /nogooglebot/
+
+User-agent: *
+Allow: https://kitchenfitterpro.co.uk/index.html
+Allow: https://kitchenfitterpro.co.uk/about_furniture_installation_in_manchester.html
+Allow: https://kitchenfitterpro.co.uk/contact-a-kitchen-fitter-in-manchester.html
+Allow: https://kitchenfitterpro.co.uk/projects-of-kitchen-installation-in-manchester-1.html
+Allow: https://kitchenfitterpro.co.uk/services-bathroom-furniture-in-manchester.html
+Allow: https://kitchenfitterpro.co.uk/services-furniture-assembly-in-manchester.html
+Allow: https://kitchenfitterpro.co.uk/services-furniture-disassembly-in-manchester.html
+Allow: https://kitchenfitterpro.co.uk/services-kitchen-fitter-near-me.html
+Allow: https://kitchenfitterpro.co.uk/services_dashboard_furniture_installation_in_manchester.html
+Sitemap: http://www.example.com/sitemap.xml
