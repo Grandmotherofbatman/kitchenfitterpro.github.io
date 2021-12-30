@@ -1,6 +1,6 @@
 
 
-User-agent: *
+User-agent: Googlebot
 Crawl-Delay: 20
 Allow: /index.html
 Allow: /about_furniture_installation_in_manchester.html
