@@ -1,7 +1,6 @@
 
 
 User-agent: Googlebot
-Crawl-Delay: 20
 Allow: /index.html
 Allow: /about_furniture_installation_in_manchester.html
 Allow: /contact-a-kitchen-fitter-in-manchester.html
@@ -11,4 +10,74 @@ Allow: /services-furniture-assembly-in-manchester.html
 Allow: /services-furniture-disassembly-in-manchester.html
 Allow: /services-kitchen-fitter-near-me.html
 Allow: /services_dashboard_furniture_installation_in_manchester.html
+Allow: /index.html
+Allow: /https://kitchenfitterpro.co.uk
+Allow: /*.css
+Allow: /*.woff
+Allow: /*.jpg
+Allow: /*.gif
+Allow: /*.png
+Allow: /*.webp
+Allow: /*.svg
+Allow: /*.js
+Allow: /*.css
+Allow: /*.woff
+Allow: /*.jpg
+Allow: /*.gif
+Allow: /*.png
+Allow: /*.webp
+Allow: /*.svg
+Allow: /*.js
+Allow: /*.css
+Allow: /*.woff
+Allow: /*.jpg
+Allow: /*.gif
+Allow: /*.png
+Allow: /*.webp
+Allow: /*.svg
+
+Sitemap: http://www.kitchenfitterpro.co.uk/sitemap.xml
+
+
+
+
+
+
+
+User-agent: Yandex
+Allow: /index.html
+Allow: /about_furniture_installation_in_manchester.html
+Allow: /contact-a-kitchen-fitter-in-manchester.html
+Allow: /projects-of-kitchen-installation-in-manchester-1.html
+Allow: /services-bathroom-furniture-in-manchester.html
+Allow: /services-furniture-assembly-in-manchester.html
+Allow: /services-furniture-disassembly-in-manchester.html
+Allow: /services-kitchen-fitter-near-me.html
+Allow: /services_dashboard_furniture_installation_in_manchester.html
+Allow: /index.html
+Allow: /https://kitchenfitterpro.co.uk
+Allow: /*.css
+Allow: /*.woff
+Allow: /*.jpg
+Allow: /*.gif
+Allow: /*.png
+Allow: /*.webp
+Allow: /*.svg
+Allow: /*.js
+Allow: /*.css
+Allow: /*.woff
+Allow: /*.jpg
+Allow: /*.gif
+Allow: /*.png
+Allow: /*.webp
+Allow: /*.svg
+Allow: /*.js
+Allow: /*.css
+Allow: /*.woff
+Allow: /*.jpg
+Allow: /*.gif
+Allow: /*.png
+Allow: /*.webp
+Allow: /*.svg
+
 Sitemap: http://www.kitchenfitterpro.co.uk/sitemap.xml
