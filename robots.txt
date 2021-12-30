@@ -1,7 +1,7 @@
-User-agent: Googlebot
-Disallow: /nogooglebot/
+
 
 User-agent: *
+Crawl-Delay: 20
 Allow: https://kitchenfitterpro.co.uk/index.html
 Allow: https://kitchenfitterpro.co.uk/about_furniture_installation_in_manchester.html
 Allow: https://kitchenfitterpro.co.uk/contact-a-kitchen-fitter-in-manchester.html
